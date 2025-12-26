@@ -1,3 +1,5 @@
-# Докеризация приложения
+IP адрес 158.160.202.179
 
-Перед тем как приступить к выполнению проектной работы разместите в репозитории исходный код фронтенд и бэкенд частей сервиса КупиПодариДай, реализованного вами ранее. 
+Frontend https://dmtryragozin.nomorepartiessbs.ru/
+
+Backend http://dmtryragozin.nomorepartiessbs.ru:4000/ или https://dmtryragozin.nomorepartiessbs.ru/api/
